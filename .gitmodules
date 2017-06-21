@@ -1,0 +1,3 @@
+[submodule "pay"]
+	path = pay
+	url = https://git.oschina.net/tcsl_wujinxiang/pay.git
